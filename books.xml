@@ -1,0 +1,11 @@
+<books>
+    <book>
+        <author>jahyong</author>
+        <price format = "Won">10,000</price>
+        <pubdate>10/29/1996</pubdate>
+    </book>
+    <pubinfo>
+        <publisher>MS Press</publisher>
+        <state>Seoul</state>
+    </pubinfo>
+<books>
